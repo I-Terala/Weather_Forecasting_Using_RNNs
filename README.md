@@ -1,4 +1,4 @@
-# Weather_Forecasting_Using_RNNs
+# Weather_Forecasting_Using_LSTM
 Analysis of historical data to forecast daily avg temperatures
 
 ## Overview
